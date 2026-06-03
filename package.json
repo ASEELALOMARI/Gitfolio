@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "gitfolio build ASEELALOMARI --sort star --theme dark --order desc --linkedin aseel-alomari --background 'https://b.top4top.io/p_3806nzgqu1.png'"
+  },
+  "type": "module",
   "dependencies": {
     "gitfolio": "^0.1.5"
   }
